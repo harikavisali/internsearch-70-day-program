@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+    int X=23,Y=-11,Z=2,D=-56,A=8;
+    printf("%d",X+Y-2*Z%D/2-A++);
+}
+
+
+
+
+output:2
