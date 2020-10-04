@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    int num1=10,num2=30.3256;
+    int num3=num1+num2;
+    printf("%d",num3);
+    
+}
+
+output:40
